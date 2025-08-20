@@ -57,5 +57,5 @@ The Power BI dashboard contains **4 interactive pages**:
 ## 📸 Dashboard Preview
 *(Insert screenshots here – e.g., in `/images` folder)*  
 ```markdown
-![Market Overview](images/market_overview.png)  
+![Market Overview](visu1.png)  
 ![Brand Analysis](images/brand_analysis.png)
