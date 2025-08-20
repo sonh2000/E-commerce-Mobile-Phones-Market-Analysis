@@ -56,9 +56,10 @@ The Power BI dashboard contains **4 interactive pages**:
 
 ## 📸 Dashboard Preview
 ###                                       Market Overview
-
-
 ![Market Overview](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/main/visu1.png?raw=true)
-![brand_analysis](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/main/visu1.png?raw=true)
+###                                       Brand_analysis
+![brand_analysis](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/4d5410aa7b3ce5b8e03131a7320c9d34e87bc95f/visual%203%20.png)
+###                                       platform_comparison
 ![platform_comparsion](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/main/visu1.png?raw=true)
-![spec vs analysis](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/main/visu1.png?raw=true)
+###                                       spec vs analysis
+![spec vs analysis](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/4d5410aa7b3ce5b8e03131a7320c9d34e87bc95f/visual2%20.png)
