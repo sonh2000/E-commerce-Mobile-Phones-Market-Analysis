@@ -8,7 +8,9 @@ The goal is to uncover **market trends, brand positioning, and pricing strategie
 
 ## 📂 Data Workflow
 - **Data Collection**  
-  - Used **Python (BeautifulSoup, Requests)** to scrape product listings.  
+  - Used **Python (BeautifulSoup, Requests)** to scrape product listings.
+  - the code is here [`scraping_and_cleaning.ipynb`](amazon_smartphones.ipynb)
+  - and here [`scraping_and_cleaning.ipynb`](juimia_smartphones.ipynb)
   - Extracted: product name, brand, price, storage/RAM, and platform (Amazon or Jumia).  
 
 - **Data Cleaning & Preprocessing**  
@@ -63,3 +65,9 @@ The Power BI dashboard contains **4 interactive pages**:
 ![platform_comparsion](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/main/visu1.png?raw=true)
 ###                                       spec vs analysis
 ![spec vs analysis](https://github.com/sonh2000/E-commerce-Mobile-Phones-Market-Analysis/blob/4d5410aa7b3ce5b8e03131a7320c9d34e87bc95f/visual2%20.png)
+
+
+## 📬 Contact  
+- Email: yasserhassen98@gmail.com
+- LinkedIn: [linkedin.com/in/yourprofile](www.linkedin.com/in/hassan-yasser-2000hh)  
+- GitHub: [github.com/yourusername](https://github.com/sonh2000)  
